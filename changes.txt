@@ -1,0 +1,46 @@
+1.6
+- Added QODE Quick View for WooCommerce plugin as required
+- Updated Qode Framework plugin to 1.2.3
+- Updated Halstein Core plugin to 1.0.4
+- Updated Revolution Slider plugin to 6.7.10
+- Improved QODE Wishlist for WooCommerce compatibility (Use Shortcode integration)
+
+1.5
+- Updated Halstein Core plugin to 1.0.3
+- Improved QODE Wishlist for WooCommerce compatibility (On Thumbnail integration)
+
+1.4
+- Added QODE Wishlist for WooCommerce plugin as required
+- Updated Revolution Slider plugin to 6.6.20
+- Set WooCommerce plugin as required
+
+1.3
+- Added WordPress 6.2.2 compatibility
+- Added WooCommerce 7.8.0 compatibility
+- Updated Revolution Slider plugin to 6.6.14
+
+1.2.1
+- Updated Qode Framework plugin to 1.2.2
+- Updated Revolution Slider plugin to 6.6.12
+
+1.2
+- Added WordPress 6.1.1 compatibility
+- Added WooCommerce 7.3.0 compatibility
+- Added search widget compatibility
+- Added Halstein_validate_pagination_data helper function
+- Updated Revolution Slider plugin to 6.6.10
+- Updated Qode Framework plugin to 1.2
+- Updated Halstein Core plugin to 1.0.2
+- Fixed translation domain in some parts
+- Fixed potential security vulnerability for theme and qode-framework
+- Changed _register_controls deprecated function with register_controls (Elementor 3.1)
+- Changed elementor_widgets register hook
+- Improved Google Maps API with callback function
+
+1.1
+- Added Qi Blocks as required plugin
+- Added Gutenberg demo import option
+- Added 'Bottom Double Links' functionality for 'Image With Text' shortcode
+- Updated Halstein Core plugin to 1.0.1
+- Updated Revolution Slider plugin to 6.6.3
+- Fixed Event dates translation
